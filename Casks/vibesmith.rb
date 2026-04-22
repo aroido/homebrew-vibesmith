@@ -1,8 +1,8 @@
 cask "vibesmith" do
-  version "0.5.4-alpha.16"
-  sha256 "fbc8c6d7848d6ca0b9b47ee652621f6123b2e8ac6e064420624071ba729aba8a"
+  version "0.5.4-alpha.17"
+  sha256 "c1428104a6fca5dfc2659df37c6176bdde35115f25ca9a1b8990346e294b2c0b"
 
-  url "https://github.com/aroido/vibesmith/releases/download/v0.5.4-alpha.16/VibeSmith-0.5.4-alpha.16.dmg"
+  url "https://github.com/aroido/vibesmith/releases/download/v0.5.4-alpha.17/VibeSmith-0.5.4-alpha.17.dmg"
   name "VibeSmith"
   desc "AI agent components manager for Claude Code and Cursor"
   homepage "https://github.com/aroido/vibesmith"
