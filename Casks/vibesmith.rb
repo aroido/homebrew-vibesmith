@@ -1,6 +1,6 @@
 cask "vibesmith" do
   version "0.5.4-alpha.16"
-  sha256 "ff3bceb46422588ac10cceadbb07ca45ca009c3902de4c26c08c806c15d918ee"
+  sha256 "fbc8c6d7848d6ca0b9b47ee652621f6123b2e8ac6e064420624071ba729aba8a"
 
   url "https://github.com/aroido/vibesmith/releases/download/v0.5.4-alpha.16/VibeSmith-0.5.4-alpha.16.dmg"
   name "VibeSmith"
